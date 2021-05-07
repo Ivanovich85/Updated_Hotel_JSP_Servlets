@@ -38,13 +38,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="${pageContext.request.contextPath}/site?page=home">SOLID.</a>
+          <a class="navbar-brand" href="${pageContext.request.contextPath}/site?page=home">Ventana Hotels</a>
         </div>
         <div class="navbar-collapse collapse navbar-right">
           <ul class="nav navbar-nav">
             <li><a href="${pageContext.request.contextPath}/site?page=home">HOME</a></li>
-            <li ><a href="${pageContext.request.contextPath}/operation?page=listusers"">LIST USERS</a></li>
-            <li ><a href="${pageContext.request.contextPath}/operation?page=loadadduserpage"">ADD USER</a></li>
+            <li ><a href="${pageContext.request.contextPath}/operation?page=listHotels">LIST OF HOTELS</a></li>
+            <li ><a href="${pageContext.request.contextPath}/site?page=loadadduserpage">ADD USER</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

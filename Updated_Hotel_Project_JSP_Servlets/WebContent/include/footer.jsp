@@ -18,11 +18,11 @@
 		 			</p>
 		 		</div>
 		 		<div class="col-lg-4">
-		 			<h4>Our Bunker</h4>
+		 			<h4>Home Base</h4>
 		 			<div class="hline-w"></div>
 		 			<p>
 		 				123 Some Ave,<br/>
-		 				New York 23890<br/>
+		 				New City 23890<br/>
 		 				United States.<br/>
 		 			</p>
 		 		</div>
