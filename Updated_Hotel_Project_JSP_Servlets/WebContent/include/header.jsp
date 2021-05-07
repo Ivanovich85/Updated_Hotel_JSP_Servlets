@@ -44,7 +44,7 @@
           <ul class="nav navbar-nav">
             <li><a href="${pageContext.request.contextPath}/site?page=home">HOME</a></li>
             <li ><a href="${pageContext.request.contextPath}/operation?page=listusers"">LIST USERS</a></li>
-            <li ><a href="${pageContext.request.contextPath}/operation?page=adduser"">ADD USER</a></li>
+            <li ><a href="${pageContext.request.contextPath}/operation?page=loadadduserpage"">ADD USER</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

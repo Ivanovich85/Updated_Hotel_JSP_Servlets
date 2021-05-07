@@ -7,6 +7,6 @@
 
 		driverClassName="com.mysql.cj.jdbc.Driver"
 
-		url="jdbc:mysql://127.0.0.1:3306/new_schema?useSSL=false" />
+		url="jdbc:mysql://127.0.0.1:3306/Updated_Hotel?useSSL=false" />
 
 </Context>
